@@ -1,11 +1,11 @@
-# Marketing Company website [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)]
+# Marketing Company website
 
 This is basically a full blown website made in HTML/CSS for an imaginary website developeming and hosting company like wix on the internet. 
 Hope you like my project !! it works good in laptop screen if you are using desktop please zoom in or out that might work .
 
 ## Technologies Used
-  - HTML - Hyper Text Markup Language
-  - CSS - Cascadeing Spread Sheet
+  - HTML
+  - CSS
   - CSS Flex box
 
 ## Demo
